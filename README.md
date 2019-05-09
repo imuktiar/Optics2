@@ -3,8 +3,6 @@
 
 ![Alt Text](https://imgur.com/CZBSdHe.gif)
 
-<img center src="/art/sample.gif?raw=true" width="200px">
-
 
 This is a MERN application with a databse on 
 Opticals Eye Doctors and Surgeons in your area to search. 
@@ -13,7 +11,9 @@ A Guide for the indivudals that need specific results which we have narrowed dow
 
 
 
-Still Building
+
+
+Currently Still Building
 
 ![Alt Text](https://imgur.com/44fJJXc.gif)
 
