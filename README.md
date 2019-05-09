@@ -1,6 +1,16 @@
 cd # Optics
 
-A MERN application genrating 
+
+![Alt Text](<blockquote class="imgur-embed-pub" lang="en" data-id="xwunkfb"><a href="//imgur.com/xwunkfb">So my friend asked if i&#39;m blind without glasses. I sent her this .gif</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+
+
++<img src="/art/sample.gif?raw=true" width="200px">
+
+
+A MERN application with a databse on 
+Opticals Eye Doctors and Surgeons in your area. 
+
+Building 
 
 ## Technologies
 

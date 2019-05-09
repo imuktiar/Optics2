@@ -58,7 +58,7 @@ class App extends Component {
   deleteFromDB = idTodelete => {
     let objIdToDelete = null;
     this.state.data.forEach(dat => {
-      if (dat.id == idTodelete) {
+      if (dat.id === idTodelete) {
         objIdToDelete = dat._id;
       }
     });
@@ -70,12 +70,10 @@ class App extends Component {
     });
   };
 
-
-
   updateDB = (idToUpdate, updateToApply) => {
     let objIdToUpdate = null;
     this.state.data.forEach(dat => {
-      if (dat.id == idToUpdate) {
+      if (dat.id === idToUpdate) {
         objIdToUpdate = dat._id;
       }
     });
@@ -93,7 +91,7 @@ class App extends Component {
       <div>
         <ul>
           {data.length <= 0
-            ? "NO DB ENTRIES YET"
+            ? "The Optical Database"
             : data.map(dat => (
                 <li style={{ padding: "10px" }} key={data.message}>
                   <span style={{ color: "gray" }}> id: </span> {dat.id} <br />
@@ -106,7 +104,7 @@ class App extends Component {
           <input
             type="text"
             onChange={e => this.setState({ message: e.target.value })}
-            placeholder="add something in the database"
+            placeholder="add something in the Optical database"
             style={{ width: "200px" }}
           />
           <button onClick={() => this.putDataToDB(this.state.message)}>
