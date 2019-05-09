@@ -1,10 +1,9 @@
-cd # Optics
+ # Optics
 
 
 ![Alt Text](https://imgur.com/CZBSdHe.gif)
 
-
-+<img src="/art/sample.gif?raw=true" width="200px">
+<img center src="/art/sample.gif?raw=true" width="200px">
 
 
 This is a MERN application with a databse on 
@@ -16,7 +15,7 @@ A Guide for the indivudals that need specific results which we have narrowed dow
 
 Still Building
 
-![Alt Text](https://imgur.com/44fJJXc)
+![Alt Text](https://imgur.com/44fJJXc.gif)
 
 
 
